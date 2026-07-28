@@ -1,0 +1,10 @@
+{"question": "What was total net revenue in fiscal 2025?", "expected_chunk_ids": ["ACME 10-K 2025::Item 7::0"]}
+{"question": "How does the company hedge foreign exchange risk?", "expected_chunk_ids": ["ACME 10-K 2025::Item 7A::0"]}
+{"question": "What competitive risks does the company face?", "expected_chunk_ids": ["ACME 10-K 2025::Item 1A::0"]}
+{"question": "Is the company involved in any legal proceedings?", "expected_chunk_ids": ["ACME 10-K 2025::Item 3::0"]}
+{"question": "How much was spent on research and development?", "expected_chunk_ids": ["ACME 10-K 2025::Item 7::1"]}
+{"question": "What supply chain risks are disclosed?", "expected_chunk_ids": ["ACME 10-K 2025::Item 1A::1"]}
+{"question": "How much cash and marketable securities does the company hold?", "expected_chunk_ids": ["ACME 10-K 2025::Item 7::2"]}
+{"question": "What was the gross margin and why did it change?", "expected_chunk_ids": ["ACME 10-K 2025::Item 7::3"]}
+{"question": "What was the effective tax rate?", "expected_chunk_ids": ["ACME 10-K 2025::Item 8::0"]}
+{"question": "Were disclosure controls found to be effective?", "expected_chunk_ids": ["ACME 10-K 2025::Item 9A::0"]}
